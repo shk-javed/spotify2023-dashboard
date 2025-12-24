@@ -24,5 +24,5 @@ To transform raw streaming data into meaningful, privacy-safe insights for analy
 
 ---
 
-**Created with ❤️ by JD (JD = home name JD)**  
+**Created with ❤️ by JD 
 University of Mumbai | TY Data Science Student
